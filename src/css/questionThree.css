@@ -1,0 +1,29 @@
+td {
+  word-break: break-all;
+}
+
+button {
+  background-color: white;
+  border: none;
+  font-weight: bold;
+}
+
+caption input {
+  border: 1px black solid !important;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+td button img {
+  height: 30px;
+}
+
+tfoot ul {
+  margin: 0;
+}
